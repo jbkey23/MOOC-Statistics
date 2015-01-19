@@ -26,7 +26,10 @@ Newness in approach comes from a large amount of code being reviewed from hundre
 Those who are interested in running their own MOOCs and statisticians. 
 
 ### If you're successful, what difference will it make? What impact will success have? How will it be measured?
+Success with this project will provide valuable insight into the coding practices of a wide set of demographics. This information could further be used to guide new MOOC courses and target specific audiences to teach skills that may not have available to learn beforehand, and improve on skills that are already being used.
+
 ### What are the risks and the payoffs?
 ### How much will it cost?
+This project will cost nothing.
 ### How long will it take?
 ### What are the midterm and final "exams" to check for success? How will progress be measured?
