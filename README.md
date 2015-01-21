@@ -3,6 +3,9 @@
 ## Description
 This project focuses on analyzing the code of several hundred student submitted code to a MOOC. We are attempting to analyze the code base of several hundred submitted code samples to a MOOC that was recently offered. The information we currently have access to is the students' code, forum comments, country, level of education, age, employment status, course scores, and IP address. The interesting part of this analysis is because MOOCs are still relatively new and we are not sure what can be learned from this large amount of information. We hope to learn as much as possible from these such as finding code clones or certain patterns not only within the code but also across demographics or other divides. We can also check for the code's safety, any frameworks used, or their final scalability. 
 
+##Link to PowerPoint slides
+https://docs.google.com/presentation/d/1Lu4FJnyh_wUFnXTSQ1f0GxwpNP0UDu2IzkPRWYGPWEY/edit?usp=sharing
+
 ## Checkout this project repo:
 - We are planning on using Java for this. Details to come as the project progresses. 
 
