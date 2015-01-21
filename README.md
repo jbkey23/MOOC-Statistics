@@ -20,7 +20,18 @@ We are attempting to analyze the code base of several hundred submitted code sam
 The main challenge of this project is that MOOCs are new and a large amount of code is to be analyzed to better understand the significance of running MOOCs. Not only must the code be analyzed in an intelligent way, but we must also define patterns and other metrics to be examined with significance. Do coders from region have different style than another? Are there signficiant commonalities across demographics? Is there code or pattern duplication among submissions? These are the questions we hope to answer and more. 
 
 ### How is it done today, and what are the limits of current practice?
-(to be added)
+- Source code analysis
+  - Structure can be separated into four blocks
+    - Model construction
+    - Analysis & pattern recognition algorithms
+    - Patterns knowledge and result representation
+- Anti-patterns
+  - Gas pattern
+  - God object
+  - Copy-paste programming
+- Bug patterns
+  - Erroneous program behavior correlated with prog. mistakes
+  
 
 ### What's new in your approach and why do you think it will be successful?
 Newness in approach comes from a large amount of code being reviewed from hundreds of users rather than dozens from single class. 
