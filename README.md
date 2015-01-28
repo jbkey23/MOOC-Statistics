@@ -1,6 +1,8 @@
 # MOOC-Statistics
 
 ## Description
+Presently, it is difficult to analyze the code practices of software developers and engineers due to the various styles and methods with which people program; therefore, there is not as much opportunity to fix common errors in coding patterns or even improve specific areas. Further, it is difficult to compare programs because of the various applications that people strive to solve problems for; akin to comparing apples and oranges. MOOC courses are taken by a large, diverse group of programming professionals; this provides a great common code base to begin looking at for any patterns or anti-patterns or other metrics within their submission. We must look at these patterns and extract significance from them. Why are they important? What can be inferred from this information? And what can be done with this information? 
+
 This project focuses on analyzing the code of several hundred student submitted code to a MOOC. We are attempting to analyze the code base of several hundred submitted code samples to a MOOC that was recently offered. The information we currently have access to is the students' code, forum comments, country, level of education, age, employment status, course scores, and IP address. The interesting part of this analysis is because MOOCs are still relatively new and we are not sure what can be learned from this large amount of information. We hope to learn as much as possible from these such as finding code clones or certain patterns not only within the code but also across demographics or other divides. We can also check for the code's safety, any frameworks used, or their final scalability. 
 
 ##Link to PowerPoint slides
