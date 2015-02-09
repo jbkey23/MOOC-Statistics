@@ -13,7 +13,10 @@ https://docs.google.com/presentation/d/1Lu4FJnyh_wUFnXTSQ1f0GxwpNP0UDu2IzkPRWYGP
 
 ## Build Cycles
 1. Outline and general description
-2. To be continued.
+2. Gather data and run coverage code
+3. Put data into a database (probably SQL)
+4. Infer meaning from the data
+5. Look into specific or specialized cases (?)
 
 ## The Heilmeier questions:
 ### What are you trying to do? Articulate your objectives using absolutely no jargon. What is the problem? Why is it hard?
